@@ -3,6 +3,8 @@
 
 To ilistarate the Erlang language, I wrote a simple program that demonstrates the syntax of the language.  I wanted to learn the basics of the language and i did so by developing a few simple functions.
 
+[Software Demo Video](https://youtu.be/dBaHmmvRkpQ)
+
 # Development Environment
 
 vscode was used to write the code.  The code was written in Erlang.
@@ -64,10 +66,6 @@ To exit the Erlang shell, type the following command.
 ```bash
 q().
 ```
-
-
-[Software Demo Video](http://youtube.link.goes.here)
-
 
 # Useful Websites
 
